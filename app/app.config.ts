@@ -1,14 +1,14 @@
 export default defineAppConfig({
   global: {
-    meetingLink: 'https://cal.com/hugorcd/15min',
-    available: true,
+    meetingLink: '',
+    available: false,
   },
   profile: {
-    name: 'Hugo Richard',
+    name: 'Tim Feraco',
     job: 'Frontend Architect and Designer',
-    email: 'contact@hrcd.fr',
-    phone: '(+33) 6 21 56 22 18',
-    picture: 'https://avatars.githubusercontent.com/u/71938701?v=4',
+    email: 'timferaco@outlook.com',
+    phone: '',
+    picture: 'PXL_20241105_164127450.jpg',
   },
   socials: {
     github: 'https://github.com/HugoRCD',
